@@ -85,10 +85,13 @@ print("value of y_prediction:",y_prediction)
 
 y_prediction= y_prediction > 0.5
 #we use > 0.5 to convert the prediction to boolean values 
+#if the prediction is greater than 0.5 then the prediction is 1 else 0
+#0.5 is the threshold value used to make the prediction
 
-if(y_prediction == 0):
+if(y_prediction == 0): #if the prediction is 0 then the image is not a cat
     prd="Dog"
 else:
     prd="Cat"
     
 print("The model predict, this is a "+ prd)
+#we use if statement to print the prediction of the model.
