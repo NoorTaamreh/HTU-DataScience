@@ -1,5 +1,5 @@
 #HTU 
 Data Science Track. 
 
-#Demo
-For using github !!!!!
+#Demo for using GitHub
+This is the first demo
