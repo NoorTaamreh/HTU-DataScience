@@ -1,3 +1,1 @@
-# HTU-DataScience
-
-Cats&Dogs Classifier
+ats&Dogs Classifier
