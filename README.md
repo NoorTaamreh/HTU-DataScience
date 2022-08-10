@@ -1,1 +1,2 @@
-Cats&Dogs Classifier
+Image classification CNN 
+Keras Dataset
