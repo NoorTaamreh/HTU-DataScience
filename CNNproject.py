@@ -94,4 +94,6 @@ else:
     prd="Cat"
     
 print("The model predict, this is a "+ prd)
-#we use if statement to print the prediction of the model.!!!
+#we use if statement to print the prediction of the model.!!!!!
+
+
