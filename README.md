@@ -1,2 +1,2 @@
 Image classification CNN 
-Keras Dataset
+Keras Dataset.
